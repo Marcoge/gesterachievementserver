@@ -1,0 +1,10 @@
+127.0.0.1 - - [17/Jun/2015:12:17:39 +0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:12:17:41 +0200] "GET /GesterAchievementServer/WEB-INF/classes/com/gester/GesterAchievementServer/MyResource.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:12:18:01 +0200] "GET /GesterAchievementServer/webapi/myresource HTTP/1.1" 200 7
+127.0.0.1 - - [17/Jun/2015:14:10:11 +0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:14:10:12 +0200] "GET /GesterAchievementServer/WEB-INF/classes/com/gester/GesterAchievementServer/MyResource.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:14:10:26 +0200] "GET /GesterAchievementServer/webapi/myresource HTTP/1.1" 500 9654
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:14:11:21 +0200] "GET /GesterAchievementServer/webapi/myresource HTTP/1.1" 500 6437
+127.0.0.1 - - [17/Jun/2015:14:13:50 +0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:14:13:51 +0200] "GET /GesterAchievementServer/WEB-INF/classes/com/gester/GesterAchievementServer/MyResource.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/Jun/2015:14:14:08 +0200] "GET /GesterAchievementServer/webapi/myresource HTTP/1.1" 200 7

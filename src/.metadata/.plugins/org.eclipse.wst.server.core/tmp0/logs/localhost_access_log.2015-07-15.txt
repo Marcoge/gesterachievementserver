@@ -1,0 +1,8 @@
+192.168.178.20 - - [15/Jul/2015:00:00:42 +0200] "GET /GesterAchievementServer/webapi/getachievements?n=52.4715753&e=13.2979166&d=1 HTTP/1.1" 200 410
+192.168.178.20 - - [15/Jul/2015:00:00:46 +0200] "GET /GesterAchievementServer/webapi/getachievements?n=52.4715753&e=13.2979166&d=10 HTTP/1.1" 200 540
+192.168.178.20 - - [15/Jul/2015:00:01:41 +0200] "GET /GesterAchievementServer/webapi/getloggedachievements?u=test@test.com HTTP/1.1" 200 1005
+192.168.178.20 - - [15/Jul/2015:00:01:45 +0200] "GET /GesterAchievementServer/webapi/getloggedachievements?u=test@test.com HTTP/1.1" 200 1005
+192.168.178.20 - - [15/Jul/2015:00:01:47 +0200] "GET /GesterAchievementServer/webapi/getloggedachievements?u=test@test.com HTTP/1.1" 200 1005
+192.168.178.20 - - [15/Jul/2015:00:02:20 +0200] "GET /GesterAchievementServer/webapi/getachievements?n=52.4715753&e=13.2979166&d=1 HTTP/1.1" 200 410
+192.168.178.20 - - [15/Jul/2015:00:02:23 +0200] "GET /GesterAchievementServer/webapi/getloggedachievements?u=test@test.com HTTP/1.1" 200 1005
+192.168.178.20 - - [15/Jul/2015:00:02:23 +0200] "GET /GesterAchievementServer/webapi/getachievements?n=52.4715753&e=13.2979166&d=10 HTTP/1.1" 200 540

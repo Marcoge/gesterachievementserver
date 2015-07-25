@@ -1,0 +1,4 @@
+127.0.0.1 - - [19/Jun/2015:16:05:23 +0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [19/Jun/2015:16:05:25 +0200] "GET /GesterAchievementServer/WEB-INF/classes/com/gester/GesterAchievementServer/MyResource.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [19/Jun/2015:16:05:50 +0200] "GET /GesterAchievementServer/webapi/MyResource HTTP/1.1" 404 1010
+0:0:0:0:0:0:0:1 - - [19/Jun/2015:16:06:06 +0200] "GET /GesterAchievementServer/webapi/myresource HTTP/1.1" 200 7
